@@ -115,5 +115,5 @@ export const usePizzaStore = defineStore("pizza", {
       this.sizeId = pizza.sizeId;
       this.ingredients = pizza.ingredients;
     },
-  }
+  },
 });
